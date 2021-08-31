@@ -1,1 +1,1 @@
-# Szakmai-gyakorlat
+A játék célja, hogy minél több pontot érjen el a játékos, azzal, hogy megpróbálja elkerülni a plafont és minél tovább lefelé gurulni. A játéktér statikus a labda csak lefelé tud közlekedni, faltól falig zárt térben.
