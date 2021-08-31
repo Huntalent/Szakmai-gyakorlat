@@ -1,0 +1,1 @@
+A játék alapja egy rácsos szerkezet, amelyben felülről kell bedobni pöttyöt, ami valamelyik függőleges oszlop alsó sorában landol. Két játékos játssza egymás ellen és az győz aki összefüggő sorban kirak 4 egyforma színű pöttyöt.
