@@ -1,1 +1,1 @@
-# Szakmai-gyakorlat
+Ebben a játékban a pingponghoz hasonlóan kell elütni a labdát, ami a felső téglákkal ütközve eltünteti azokat. Ha a labda hozzáér valamelyik objektumhoz, vagy falhoz akkor szöget vált és ellenkező irányba kezd el haladni, kivéve ha az alsó rácshoz ér, mert onnan csak az ütő tudja visszaütni a labdát.
