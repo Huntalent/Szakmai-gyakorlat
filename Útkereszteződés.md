@@ -1,0 +1,1 @@
+Ebben a játékban a telefonon sikeres Crossy Road Froggert vettem alapul, ahol egy békával kell átjutni az úton úgy, hogy a járművek mozognak és csak bizonyos sávon keresztül lehet közlekedni, hogy ne üssenek el. 
