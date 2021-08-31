@@ -1,1 +1,1 @@
-# Szakmai-gyakorlat
+Mindenki által ismert Nokia telefonos játék a Snake, amiben egy kígyó zárt térben eszi meg a véletlenszerűen felbukkanó almákat és ha a kígyó falnak, vagy saját testének ütközik akkor vége a játéknak.
